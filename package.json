@@ -1,0 +1,26 @@
+{
+  "name": "speed-baccarat-malaysia-tips",
+  "version": "1.0.0",
+  "description": "Free online baccarat game for Malaysian players",
+  "main": "index.html",
+  "keywords": [
+    "baccarat",
+    "online-game",
+    "casino",
+    "browser-game",
+    "javascript",
+    "html5",
+    "free-game",
+    "malaysia"
+  ],
+  "author": "ZZG Baccarat",
+  "license": "MIT",
+  "homepage": "https://johmark2026-svg.github.io/speed-baccarat-malaysia-tips/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johmark2026-svg/speed-baccarat-malaysia-tips.git"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}

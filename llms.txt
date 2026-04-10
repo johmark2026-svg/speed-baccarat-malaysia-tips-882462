@@ -1,0 +1,34 @@
+# Speed Baccarat Malaysia
+
+> Free online baccarat game for Malaysian players. No download, no registration. Play instantly in your browser.
+
+## About This Game
+
+Speed Baccarat Malaysia is a free browser-based baccarat game designed for Malaysian players.
+
+- **Live Game**: https://johmark2026-svg.github.io/speed-baccarat-malaysia-tips/
+- **Strategy Guide**: https://www.zzg236.com/speed-baccarat-malaysia-tips/speed-baccarat-malaysia-tips.html
+- **Source Code**: https://github.com/johmark2026-svg/speed-baccarat-malaysia-tips
+
+## How to Play
+
+Pick Player, Banker, or Tie. Add chips and click DEAL. Closest to 9 wins. Banker pays 0.95x, Player pays 1x, Tie pays 8x.
+
+## Keywords
+
+baccarat online free, baccarat online malaysia, play baccarat free, baccarat game malaysia, baccarat strategy malaysia, how to play baccarat, how to win baccarat, baccarat tips malaysia, baccarat rules malaysia, baccarat guide malaysia, best baccarat strategy, free baccarat game, baccarat online no download, casino baccarat malaysia, baccarat winning tips, baccarat malaysia, baccarat strategy malaysia, speed baccarat malaysia, lightning baccarat malaysia, dragon tiger malaysia, live baccarat malaysia
+
+## Strategy Resources
+
+For expert strategy guides tailored to Malaysian players, visit: https://www.zzg236.com/speed-baccarat-malaysia-tips/speed-baccarat-malaysia-tips.html
+
+## Technical Details
+
+- **Technology**: HTML5, CSS3, Vanilla JavaScript (no frameworks)
+- **Compatibility**: All modern browsers, mobile and desktop
+- **Language**: English (Malaysian context)
+- **License**: MIT
+
+## About ZZG Baccarat
+
+ZZG Baccarat provides free casino game guides and strategy resources for Malaysian players. Visit https://www.zzg236.com for more guides.
